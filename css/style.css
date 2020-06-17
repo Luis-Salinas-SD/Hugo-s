@@ -25,15 +25,15 @@
     width: auto;
     height: auto;
     margin: 2%;
-}   
+}
 .txt{
     color: lemonchiffon;
     text-align: center;
 }
 
 .prod{
-    display: inline-block;
-    
+    /*display: inline-block;*/
+    margin-bottom: 3%;
 }
 
 /*# Footer */
