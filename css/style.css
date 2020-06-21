@@ -6,7 +6,9 @@
 }
 .banner{
     background-image: url(../img/main-banner3.png);
-    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 .banner > img{
     position: relative;
@@ -21,7 +23,7 @@
 }
 /*# shop */
 .shop{
-    background-color: #9182e4;
+    background-color:  #907dfa ;
     width: auto;
     height: auto;
     margin: 2%;
@@ -35,6 +37,7 @@
     /*display: inline-block;*/
     margin-bottom: 3%;
 }
+
 
 /*# Footer */
 .text-foot{
